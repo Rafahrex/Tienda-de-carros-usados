@@ -26,19 +26,19 @@
             <h2>Vehículos disponibles</h2>
             <ul>
                 <li>
-                    <img src="imagenes/vehiculo1.jpg" alt="Vehículo 1">
+                    <img src="imagenes/carro-rojo.jpg" alt="Carro rojo">
                     <h3>Automovil 2018</h3>
                     <p>Marca: Toyota, Modelo: Corolla, Precio: $10,000</p>
                     <a href="#">Ver más detalles</a>
                 </li>
                 <li>
-                    <img src="imagenes/vehiculo2.jpg" alt="Vehículo 2">
+                    <img src="imagenes/carro-rojo.jpg" alt="Carro rojo">
                     <h3>Camioneta 2020</h3>
                     <p>Marca: Ford, Modelo: F-150, Precio: $25,000</p>
                     <a href="#">Ver más detalles</a>
                 </li>
                 <li>
-                    <img src="imagenes/vehiculo3.jpg" alt="Vehículo 3">
+                    <img src="imagenes/carro-rojo.jpg" alt="Carro rojo">
                     <h3>Motocicleta 2022</h3>
                     <p>Marca: Honda, Modelo: CBR650R, Precio: $8,000</p>
                     <a href="#">Ver más detalles</a>
