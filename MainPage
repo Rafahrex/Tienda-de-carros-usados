@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venta de Vehículos Usados</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Venta de Vehículos Usados</h1>
+    </header>
+    <main>
+        <section class="busqueda">
+            <form action="#">
+                <label for="marca">Marca:</label>
+                <input type="text" id="marca" name="marca">
+                <label for="modelo">Modelo:</label>
+                <input type="text" id="modelo" name="modelo">
+                <label for="precio">Precio máximo:</label>
+                <input type="number" id="precio" name="precio">
+                <button type="submit">Buscar</button>
+            </form>
+        </section>
+        <section class="vehiculos">
+            <h2>Vehículos disponibles</h2>
+            <ul>
+                <li>
+                    <img src="imagenes/vehiculo1.jpg" alt="Vehículo 1">
+                    <h3>Automovil 2018</h3>
+                    <p>Marca: Toyota, Modelo: Corolla, Precio: $10,000</p>
+                    <a href="#">Ver más detalles</a>
+                </li>
+                <li>
+                    <img src="imagenes/vehiculo2.jpg" alt="Vehículo 2">
+                    <h3>Camioneta 2020</h3>
+                    <p>Marca: Ford, Modelo: F-150, Precio: $25,000</p>
+                    <a href="#">Ver más detalles</a>
+                </li>
+                <li>
+                    <img src="imagenes/vehiculo3.jpg" alt="Vehículo 3">
+                    <h3>Motocicleta 2022</h3>
+                    <p>Marca: Honda, Modelo: CBR650R, Precio: $8,000</p>
+                    <a href="#">Ver más detalles</a>
+                </li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright &copy; 2024 - Venta de Vehículos Usados</p>
+    </footer>
+</body>
+</html>
